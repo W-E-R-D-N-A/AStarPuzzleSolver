@@ -3,15 +3,12 @@
 """
 Created on Wed Sep 11 20:26:15 2019
 
-@author: Joshua L. Phillips
-Department of Computer Science
-Middle Tennessee State University
+@author: J. Phillips
+
 Illustration of heapq and operator overloading
 
 Portions based on Python code provided by
 Scott P. Morton
-Center for Computational Science
-Middle Tennessee State University
 """
 
 import heapq
