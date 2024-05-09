@@ -3,13 +3,10 @@
 """
 Created on Sat Sep 30 01:17 2023
 
-@author: Samuel Smallman
-CSCI-4350-001
-Middle Tennessee State University
 8-Puzzle Board Generator
 
 Portions based on Python code provided by
-Scott P. Morton & Joshua L. Phillips
+Scott P. Morton & J. Phillips
 """
 
 import sys, copy, numpy.random as random
