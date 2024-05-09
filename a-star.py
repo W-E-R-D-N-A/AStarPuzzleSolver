@@ -3,13 +3,10 @@
 """
 Created on Sat Sep 31 05:06 2023
 
-@author: Samuel Smallman
-CSCI-4350-001
-Middle Tennessee State University
 A* 8-Puzzle Board Solver
 
 Portions based on Python code provided by
-Scott P. Morton & Joshua L. Phillips
+Scott P. Morton & J. Phillips
 Saturn Cloud Tutorial (Manhattan Distance function)
 https://saturncloud.io/blog/solving-the-8-puzzle-with-a-algorithm/
 """
